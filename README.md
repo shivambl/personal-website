@@ -16,3 +16,4 @@ References
 ----------
 - [SvelteKit documentation](https://kit.svelte.dev/docs/introduction)
 - [Svelte documentation](https://svelte.dev/docs)
+- [Tailwind documentation](https://tailwindcss.com/docs/installation)
