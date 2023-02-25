@@ -5,7 +5,7 @@
 </script>
 
 <div class="px-4 text-lg flex flex-col h-screen">
-	<header class="pt-4 pb-8 text-center text-6xl font-semibold text-maroon-600"><a href="/">Shivam Bansal</a></header>
+	<header class="pt-16 pb-8 text-center text-6xl font-semibold text-maroon-600"><a href="/">Shivam Bansal</a></header>
 	<!-- <nav class="pt-2 pb-8 text-xl text-center uppercase font-bold">
 		<a href="/about" class="hover:underline underline-offset-[4.5px] decoration-[1.5px]">About</a>
 		/
