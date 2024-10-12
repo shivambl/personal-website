@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>shivambl</h1>
+      <h1 className='text-3xl font-bold underline'>shivambl</h1>
     </>
   )
 }
