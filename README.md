@@ -1,4 +1,15 @@
-# React + TypeScript + Vite
+# Personal website
+
+## Content
+
+1. About
+2. Contact me via email, linkedin, github
+3. Resume
+4. Projects
+5. Work experience
+6. Blog
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
