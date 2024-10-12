@@ -1,6 +1,6 @@
 const Link = ({ href='/', children='Link', isExternal = false }) => {
     let attributes = {
-        className: 'underline underline-offset-[4.5px] text-orange-50 decoration-[1.5px] hover:text-orange-200',
+        className: 'underline underline-offset-[4.5px] text-orange-100 decoration-[1.5px] hover:text-orange-200',
     }
     if (isExternal) {
         attributes['target'] = '_blank'
