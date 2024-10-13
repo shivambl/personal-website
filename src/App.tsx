@@ -2,8 +2,6 @@ import Link from './components/Link'
 import Section from './components/Section'
 import Paragraph from './components/Paragraph'
 
-import resume from './assets/Shivam_Bansal_Resume.pdf'
-
 function App() {
 
   return (
@@ -20,7 +18,7 @@ function App() {
               I'm a software engineer currently working in <Link href='https://eightfold.ai/' isExternal>Eightfold AI</Link>
             </Paragraph>
             <Paragraph>
-              Take a look at my <Link href={resume}>resume ↓</Link> and <Link href='https://github.com/shivambl' isExternal>github</Link>
+              Take a look at my <Link href='/resume'>resume ↓</Link> and <Link href='https://github.com/shivambl' isExternal>github</Link>
             </Paragraph>
           </Section>
 
