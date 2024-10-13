@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className='h-dvh bg-gray-200 flex p-8'>
+      <div className='h-dvh bg-stone-50 flex p-8'>
         <div className='container bg-maroon rounded-[3rem] m-auto p-12 lg:pd-16'>
 
           <h1 className='text-5xl text-stone-50 mt-4 mb-16'>
